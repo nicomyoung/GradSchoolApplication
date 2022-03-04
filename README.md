@@ -7,3 +7,6 @@ Please do not share/reduplicate
 
 Note: certain files such as your "credentials file" need to be located in certain places/folders which are labeled in the code. 
 I believe the credentials file is found in C:\\NOA
+
+To run the code properly, you also need the document titled "12345_ABC1234.jpg" which represents an NOA with conventional naming
+"Annotated NOA.pdf" is a copy of the same file which is labeled to help you understand where I am talking about with certain topics 
