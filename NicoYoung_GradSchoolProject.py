@@ -1326,4 +1326,16 @@ def uploadNOA(noaFile="",jsonFile=""):
     except:
         easygui.msgbox("NOA File Succesfully Saved!","Response Code: 200")
 
+    def showallfields():
+    print("-"*80)
+    print("-"*80)
+    for item in all_fields:
+        if (type(all_fields[item])==list):
+            for subitem in all_fields[item]:
+
+                print(subitem["label"] + " "*(50-len(subitem["label"]))+ str(subitem["value"]))
+        else:
+
+            print(item + " "*(50-len(item)) + str(all_fields[item]))
+
 
