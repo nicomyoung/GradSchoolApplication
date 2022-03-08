@@ -2,6 +2,7 @@
 My Python project code I am submitting for my application to Stony Brook University Computational Linguistics M.A. Program
 
 To run the code I have provided, you need a "credentials file" which you can get as a member of Stony Brook University with this link: https://drive.google.com/drive/folders/160k9_HKPqzbKkJ-A0ZQCIs8dPK_QD95k?usp=sharing
+The appropriate Lib folder is also located there, containing the correct versions of the libraries I use in my code
 
 Please do not share/reduplicate 
 
